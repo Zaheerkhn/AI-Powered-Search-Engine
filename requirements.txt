@@ -5,4 +5,5 @@ langchain_community
 langchain_groq
 duckduckgo-search
 wikipedia-api
+wikipedia
 arxiv
